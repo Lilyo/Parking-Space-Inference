@@ -2,7 +2,7 @@
 ## Demo
 ![image](picture or gif url)
 ## Introduction
-  This is an implementation of \<br>"SENSOR BASED ON-STREET PARKING SPACE STATUS INFERENCE UPON A SEMI-SUPERVISED AND MULTI-TASK LEARNING NETWORK" \<br>in TensorFlow for parking slots status inference, the goal of our method is dynamically determine the status of roadside parking spaces. 
+  This is an implementation of "SENSOR BASED ON-STREET PARKING SPACE STATUS INFERENCE UPON A SEMI-SUPERVISED AND MULTI-TASK LEARNING NETWORK" in TensorFlow for parking slots status inference, the goal of our method is dynamically determine the status of roadside parking spaces. 
 
 
 ## 
