@@ -7,8 +7,7 @@
   in TensorFlow for parking slots status inference, the goal of our method is dynamically determine the status of roadside parking spaces. 
 
   We propose well-designed deep learning networks for recognizing the sequential patterns of magnetic signals. The framework of the proposed system conposed of Coordinate Transform Module, Multi-task Module, and Temporal Module.
-![image](https://github.com/Lilyo/Parking-Space-Inference/blob/master/fig/overview%20of%20%20model.png)
-<img src="https://github.com/Lilyo/Parking-Space-Inference/blob/master/fig/overview%20of%20%20model.png" width="40%">
+<img src="https://github.com/Lilyo/Parking-Space-Inference/blob/master/fig/overview%20of%20%20model.png" width="60%">
 ### Coordinate Transform Module
 To address the porblem which the coordinate of installed sensors is unknown.
 ### Multi-task Module
@@ -30,19 +29,19 @@ Source data contains total of 62,084 data points.<br>
 Target data contains total of 16,444 data points.<br>
 We obtain total 1,552 source sequences and 411 target sequences by utilize shift windows with size 80, and stride with size 40.<br>
 (1)Example of collected data
-![image](https://github.com/Lilyo/Parking-Space-Inference/blob/master/fig/collected%20.png)
+<img src="https://github.com/Lilyo/Parking-Space-Inference/blob/master/fig/collected%20.png" width="60%">
 <br>
 (2)Example of disturbance data
-![image](https://github.com/Lilyo/Parking-Space-Inference/blob/master/fig/disturbance%20.png)
+<img src="https://github.com/Lilyo/Parking-Space-Inference/blob/master/fig/disturbance%20.png" width="60%">
 ## Training:
 	-
 
 ## Experiment:
-![image](https://github.com/Lilyo/Parking-Space-Inference/blob/master/fig/c.png)
+<img src="https://github.com/Lilyo/Parking-Space-Inference/blob/master/fig/c.png" width="40%">
 <br>
-![image](https://github.com/Lilyo/Parking-Space-Inference/blob/master/fig/s.png)
+<img src="https://github.com/Lilyo/Parking-Space-Inference/blob/master/fig/s.png" width="40%">
 <br>
-![image](https://github.com/Lilyo/Parking-Space-Inference/blob/master/fig/a.png)
+<img src="https://github.com/Lilyo/Parking-Space-Inference/blob/master/fig/a.png" width="40%">
 ## Evaluation:
 	-
 
