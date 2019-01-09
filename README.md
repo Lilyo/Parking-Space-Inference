@@ -60,3 +60,4 @@ In real testing environment, the signal responses of magnetic sensors are noisy 
 [2] H. Zhu and F. Yu, “A cross-correlation technique for vehicle detections in wireless magnetic sensor network,” IEEE Sensors J., vol. 16, no. 11, pp. 4484-4494, Jun. 2016.<br>
 [3] Z. He, H. Zhu, and F. Yu, “A vehicle detection algorithm based on wireless magnetic sensor networks,” in IEEE Int. Conf. on Information Science and Technology, Shenzhen, China, 2014, pp. 727-730.<br>
 [4] H. Zhu and F. Yu, “A vehicle parking detection method based on correlation of magnetic signals,” International Journal of Distributed Sensor Networks, vol. 2015, pp. 1-13, 2015.<br>
+[11] S. Hochreiter and J Schmidhuber, “Long short-term memory,” Neural Computation, pp. 1735–1780, 1997.
