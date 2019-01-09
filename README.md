@@ -16,11 +16,11 @@ To take advantage the information from both labeled and unlabeled data and hence
 Use LSTM[11] to grasp the logic characteristics of the above state transition and observe them for a long time.
 ## Challenges
 In real testing environment, the signal responses of magnetic sensors are noisy and unstable which makes it difficult to determine the parking status robustly. These possible challenges are summarized as follows:<br>
-### (1) The interruption from environment magnetic fields and environment noise.[1]<br>
-### (2) The variety of magnetic signals due to vehicle types.[4]<br>
-### (3) The interruption by moving vehicles.[2]<br>
-### (4) The non-unified coordination of magnetic sensors.[3]<br>
-### (5) The annoying magnetic responses caused by the status changing of neighboring spaces.[3]<br>
+(1) The interruption from environment magnetic fields and environment noise.[1]<br>
+(2) The variety of magnetic signals due to vehicle types.[4]<br>
+(3) The interruption by moving vehicles.[2]<br>
+(4) The non-unified coordination of magnetic sensors.[3]<br>
+(5) The annoying magnetic responses caused by the status changing of neighboring spaces.[3]<br>
 
 ## Training:
 	-
