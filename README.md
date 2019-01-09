@@ -37,12 +37,11 @@ We obtain total 1,552 source sequences and 411 target sequences by utilize shift
 	-
 
 ## Experiment:
-![image](https://github.com/Lilyo/Parking-Space-Inference/blob/master/fig/c.png)
-{:height="24px" width="48px"}
+![image](https://github.com/Lilyo/Parking-Space-Inference/blob/master/fig/c.png) <!-- .element height="50%" width="50%" -->
 <br>
-![image](https://github.com/Lilyo/Parking-Space-Inference/blob/master/fig/s.png)
+![image](https://github.com/Lilyo/Parking-Space-Inference/blob/master/fig/s.png) <!-- .element height="50%" width="50%" -->
 <br>
-![image](https://github.com/Lilyo/Parking-Space-Inference/blob/master/fig/a.png)
+![image](https://github.com/Lilyo/Parking-Space-Inference/blob/master/fig/a.png) <!-- .element height="50%" width="50%" -->
 ## Evaluation:
 	-
 
