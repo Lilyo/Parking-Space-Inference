@@ -6,8 +6,22 @@
   "SENSOR BASED ON-STREET PARKING SPACE STATUS INFERENCE UPON A SEMI-SUPERVISED AND MULTI-TASK LEARNING NETWORK" <br>
   in TensorFlow for parking slots status inference, the goal of our method is dynamically determine the status of roadside parking spaces. 
 
+  We propose well-designed deep learning networks for recognizing the sequential patterns of magnetic signals. The framework of the proposed system conposed of Coordinate Transform Module, Multi-task Module, and Temporal Module.
+![image](https://github.com/Lilyo/Parking-Space-Inference/blob/master/fig/overview%20of%20%20model.png)
+### Coordinate Transform Module
+To address the porblem which the coordinate of installed sensors is unknown.
+### Multi-task Module
+To take advantage the information from both labeled and unlabeled data and hence strengthen the training model’s resistance to external noises and its adaptability to aforementioned signal variations. 
+### Temporal Module
+Use LSTM[11] to grasp the logic characteristics of the above state transition and observe them for a long time.
+## Challenges
+In real testing environment, the signal responses of magnetic sensors are noisy and unstable which makes it difficult to determine the parking status robustly. These possible challenges are summarized as follows:<br>
+### (1) The interruption from environment magnetic fields and environment noise.[1]<br>
+### (2) The variety of magnetic signals due to vehicle types.[4]<br>
+### (3) The interruption by moving vehicles.[2]<br>
+### (4) The non-unified coordination of magnetic sensors.[3]<br>
+### (5) The annoying magnetic responses caused by the status changing of neighboring spaces.[3]<br>
 
-## 
 ## Training:
 	-
 
@@ -40,3 +54,9 @@
         author={You-Feng Wu, Hoang Tran Vu, Ching-Chun Huang},<br>
         year={2018}<br>
     }
+
+## Reference
+[1] Z. Zhang, X. Li, H. Yuan, and F. Yu, “A Street Parking System Using Wireless Sensor Networks,” Int. J. Distributed Sensor Networks, vol. 7, no. 2, pp. 153-163, 2013.<br>
+[2] H. Zhu and F. Yu, “A cross-correlation technique for vehicle detections in wireless magnetic sensor network,” IEEE Sensors J., vol. 16, no. 11, pp. 4484-4494, Jun. 2016.<br>
+[3] Z. He, H. Zhu, and F. Yu, “A vehicle detection algorithm based on wireless magnetic sensor networks,” in IEEE Int. Conf. on Information Science and Technology, Shenzhen, China, 2014, pp. 727-730.<br>
+[4] H. Zhu and F. Yu, “A vehicle parking detection method based on correlation of magnetic signals,” International Journal of Distributed Sensor Networks, vol. 2015, pp. 1-13, 2015.<br>
