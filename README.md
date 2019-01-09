@@ -22,6 +22,13 @@ In real testing environment, the signal responses of magnetic sensors are noisy 
 (4) The non-unified coordination of magnetic sensors.[3]<br>
 (5) The annoying magnetic responses caused by the status changing of neighboring spaces.[3]<br>
 
+
+## Dataset:
+### Data format
+Source data contains total of 62,084 data points.<br>
+Target data contains total of 16,444 data points.<br>
+We obtain total 1,552 source sequences and 411 target sequences by utilize shift windows with size 80, and stride with size 40.<br>
+![image](https://github.com/Lilyo/Parking-Space-Inference/blob/master/fig/data.png)
 ## Training:
 	-
 
