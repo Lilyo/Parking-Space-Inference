@@ -1,6 +1,6 @@
 # Parking-Space-Inference
 ## Demo
-![image](picture or gif url)
+![image](https://github.com/Lilyo/Parking-Space-Inference/blob/master/fig/fin.gif)
 ## Introduction
   This is an implementation of <br>
   "SENSOR BASED ON-STREET PARKING SPACE STATUS INFERENCE UPON A SEMI-SUPERVISED AND MULTI-TASK LEARNING NETWORK" <br>
@@ -19,17 +19,17 @@
 
 ## You should have this tree structure in the current folder:
 
-~/USER/ParkingSpaceInference$
-.
-├── train.py.py
-├── tools.py
-├── inference.py
-├── help_function.py
-├── load_data.py
-├── next_batch.py
-├── stn1d.py
-├── ID_0_C2_AllLabel.txt
-└── ID_0_Angle_0_Disturbance_AllLabel_v1.txt
+~/USER/ParkingSpaceInference$<br>
+.<br>
+├── train.py.py<br>
+├── tools.py<br>
+├── inference.py<br>
+├── help_function.py<br>
+├── load_data.py<br>
+├── next_batch.py<br>
+├── stn1d.py<br>
+├── ID_0_C2_AllLabel.txt<br>
+└── ID_0_Angle_0_Disturbance_AllLabel_v1.txt<br>
 
 
 
