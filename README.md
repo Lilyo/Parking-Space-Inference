@@ -7,7 +7,7 @@
   in TensorFlow for parking slots status inference, the goal of our method is dynamically determine the status of roadside parking spaces. 
 
   We propose well-designed deep learning networks for recognizing the sequential patterns of magnetic signals. The framework of the proposed system conposed of Coordinate Transform Module, Multi-task Module, and Temporal Module.
-![image](https://github.com/Lilyo/Parking-Space-Inference/blob/master/fig/overview%20of%20%20model.png)
+![image](https://github.com/Lilyo/Parking-Space-Inference/blob/master/fig/overview%20of%20%20model.png){:height="50%" width="50%"}
 ### Coordinate Transform Module
 To address the porblem which the coordinate of installed sensors is unknown.
 ### Multi-task Module
@@ -37,11 +37,11 @@ We obtain total 1,552 source sequences and 411 target sequences by utilize shift
 	-
 
 ## Experiment:
-![image](https://github.com/Lilyo/Parking-Space-Inference/blob/master/fig/c.png) <!-- .element height="50%" width="50%" -->
+![image](https://github.com/Lilyo/Parking-Space-Inference/blob/master/fig/c.png)
 <br>
-![image](https://github.com/Lilyo/Parking-Space-Inference/blob/master/fig/s.png) <!-- .element height="50%" width="50%" -->
+![image](https://github.com/Lilyo/Parking-Space-Inference/blob/master/fig/s.png)
 <br>
-![image](https://github.com/Lilyo/Parking-Space-Inference/blob/master/fig/a.png) <!-- .element height="50%" width="50%" -->
+![image](https://github.com/Lilyo/Parking-Space-Inference/blob/master/fig/a.png)
 ## Evaluation:
 	-
 
