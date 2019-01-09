@@ -1,18 +1,21 @@
 # Parking-Space-Inference
-
+## Demo
+![image](picture or gif url)
 ## Introduction
-  This is an implementation of "SENSOR BASED ON-STREET PARKING SPACE STATUS INFERENCE UPON A SEMI-SUPERVISED AND MULTI-TASK LEARNING NETWORK" in TensorFlow for parking slots status inference
+  This is an implementation of "SENSOR BASED ON-STREET PARKING SPACE STATUS INFERENCE UPON A SEMI-SUPERVISED AND MULTI-TASK LEARNING NETWORK" in TensorFlow for parking slots status inference, the goal of our method is dynamically determine the status of roadside parking spaces. 
 
-# Training:
-	1. In current version, the mode training with {EntropyLoss|FocalLossV1}, and I do not use maxout.
 
-# Experiment:
-    -
-
-# Evaluation:
+## 
+## Training:
 	-
 
-# You should have this tree structure in the current folder:
+## Experiment:
+	-
+
+## Evaluation:
+	-
+
+## You should have this tree structure in the current folder:
 
 ~/USER/ParkingSpaceInference$
 .
@@ -33,5 +36,5 @@
     @article{ParkingSpaceInference,
         title={Sensor Based On-street Parking Space Status Inference Upon A Semi-supervised And Multi-task Learning Network},
         author={You-Feng Wu, Hoang Tran Vu, Ching-Chun Huang},
-        year={2017}
+        year={2018}
     }
