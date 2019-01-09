@@ -28,10 +28,10 @@ In real testing environment, the signal responses of magnetic sensors are noisy 
 Source data contains total of 62,084 data points.<br>
 Target data contains total of 16,444 data points.<br>
 We obtain total 1,552 source sequences and 411 target sequences by utilize shift windows with size 80, and stride with size 40.<br>
-(1)Example of collected data
+(1)Example of collected data<br>
 <img src="https://github.com/Lilyo/Parking-Space-Inference/blob/master/fig/collected%20.png" width="60%">
 <br>
-(2)Example of disturbance data
+(2)Example of disturbance data<br>
 <img src="https://github.com/Lilyo/Parking-Space-Inference/blob/master/fig/disturbance%20.png" width="60%">
 ## Training:
 	-
