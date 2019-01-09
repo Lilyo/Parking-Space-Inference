@@ -34,9 +34,9 @@
 
 
 ## Citation
-"Sensor Based On-street Parking Space Status Inference Upon A Semi-supervised And Multi-task Learning Network", Computer Vision, Graphic and Image Processing (CVGIP), Aug., 2, 2018
-    @article{ParkingSpaceInference,
-        title={Sensor Based On-street Parking Space Status Inference Upon A Semi-supervised And Multi-task Learning Network},
-        author={You-Feng Wu, Hoang Tran Vu, Ching-Chun Huang},
-        year={2018}
+"Sensor Based On-street Parking Space Status Inference Upon A Semi-supervised And Multi-task Learning Network", Computer Vision, Graphic and Image Processing (CVGIP), Aug., 2, 2018<br>
+    @article{ParkingSpaceInference,<br>
+        title={Sensor Based On-street Parking Space Status Inference Upon A Semi-supervised And Multi-task Learning Network},<br>
+        author={You-Feng Wu, Hoang Tran Vu, Ching-Chun Huang},<br>
+        year={2018}<br>
     }
