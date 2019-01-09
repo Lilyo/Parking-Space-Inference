@@ -42,8 +42,7 @@ We obtain total 1,552 source sequences and 411 target sequences by utilize shift
 <img src="https://github.com/Lilyo/Parking-Space-Inference/blob/master/fig/s.png" width="40%">
 <br>
 <img src="https://github.com/Lilyo/Parking-Space-Inference/blob/master/fig/a.png" width="40%">
-## Evaluation:
-	-
+<br>
 
 ## You should have this tree structure in the current folder:
 
