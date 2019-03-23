@@ -66,7 +66,7 @@ We obtain total 1,552 source sequences and 411 target sequences by utilize shift
         title={Sensor Based On-street Parking Space Status Inference Upon A Semi-supervised And Multi-task Learning Network},<br>
         author={You-Feng Wu, Hoang Tran Vu, Ching-Chun Huang},<br>
         year={2018}<br>
-    }
+    }<br><br>
 "SEMI-SUPERVISED AND MULTI-TASK LEARNING FOR ON-STREET PARKING SPACE STATUS INFERENCE", Multimedia Analysis and Pattern Recognition (MAPR), 2019<br>
     @article{ParkingSpaceInference,<br>
         title={SEMI-SUPERVISED AND MULTI-TASK LEARNING FOR ON-STREET PARKING SPACE STATUS INFERENCE},<br>
