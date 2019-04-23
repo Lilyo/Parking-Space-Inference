@@ -74,8 +74,6 @@ We obtain total 1,552 source sequences and 411 target sequences by utilize shift
         year={2019}<br>
     }
 
-MAPR2019-SEMI-SUPERVISED AND MULTI-TASK LEARNING FOR ON-STREET PARKING SPACE STATUS INFERENCE
-
 ## Reference
 [1] Z. Zhang, X. Li, H. Yuan, and F. Yu, “A Street Parking System Using Wireless Sensor Networks,” Int. J. Distributed Sensor Networks, vol. 7, no. 2, pp. 153-163, 2013.<br>
 [2] H. Zhu and F. Yu, “A cross-correlation technique for vehicle detections in wireless magnetic sensor network,” IEEE Sensors J., vol. 16, no. 11, pp. 4484-4494, Jun. 2016.<br>
