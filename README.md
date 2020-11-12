@@ -1,6 +1,6 @@
 # Parking-Space-Inference
 Our work "Semi-supervised and Multi-task Learning for On-street Parking Space Status Inference" got Best Paper Award at MAPR 2019 Conference. For more information, please  check the link below:
-[Wu et al.](https://drive.google.com/open?id=1SErOLhnqgA8U6eg_DfP9El_In-cIvplT) (_MAPR2019_)
+[Wu et al.](https://ieeexplore.ieee.org/document/8743537) (_MAPR2019_)
 
 ## Demo
 ![image](https://github.com/Lilyo/Parking-Space-Inference/blob/master/fig/fin.gif)
